@@ -3,7 +3,7 @@ sudo apt update
 sudo apt install python3
 
 
-#With this command, we obtain the private key and save it. In the next command, you need to replace it
+2With this command, we obtain the private key and save it. In the next command, you need to replace it
 ```python
 cat /root/.config/solana/id.json
 
