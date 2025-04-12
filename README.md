@@ -10,7 +10,7 @@ cat /root/.config/solana/id.json
 ```python
 nano convert_key.py
 ```
-***Copy and paste the full text***
+***Copy and paste the full text  The private key array should be placed here []*** 
 ```python
 import base58
 
