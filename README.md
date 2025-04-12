@@ -1,6 +1,2 @@
 ```bash
-hamed
-
-
-
-hosein
+hamed```
