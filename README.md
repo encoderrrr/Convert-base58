@@ -7,7 +7,7 @@
 ```cat /root/.config/solana/id.json```
 
 
-```nano convert_key.py```
+**nano convert_key.py**
 
 #Copy and paste the full text.
 
