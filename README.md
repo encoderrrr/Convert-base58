@@ -22,8 +22,9 @@ key_bytes = bytes(key_bytes[:64])  # Only the first 64 bytes for the private key
 private_key = base58.b58encode(key_bytes).decode('utf-8')
 print("Private Key (Base58):", private_key)
 ```
-
-
+```python
+sudo apt install python3-base58
+```
 ***#Creating a virtual environment***.
 ```python
 python3 -m venv ~/base58_env
