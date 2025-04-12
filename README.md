@@ -1,6 +1,6 @@
 ```python
-sudo apt update
-sudo apt install python3
+(sudo apt update
+sudo apt install python3)
 
 
 2With this command, we obtain the private key and save it. In the next command, you need to replace it
