@@ -1,2 +1,12 @@
-- `command 1`: Explanation about command 1.
-- `command 2`: Explanation about command 2.
+### 2. استفاده از عناوین
+با استفاده از عناوین می‌توانید بخش‌های مختلف را تفکیک کنید:
+
+```markdown
+## توضیحات
+
+توضیحاتی درباره کد...
+
+## کد
+
+```python
+print("Hello, World!")
